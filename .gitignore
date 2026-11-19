@@ -13,3 +13,7 @@ dist/
 .idea/
 .DS_Store
 Thumbs.db
+
+# Local SQLite database files
+*.sqlite3
+*.sqlite3-*
