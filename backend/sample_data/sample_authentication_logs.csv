@@ -1,0 +1,10 @@
+timestamp,ip_address,username,event_type,status
+2026-11-19T08:00:00Z,192.0.2.10,analyst,login,success
+2026-11-19T08:01:00Z,198.51.100.23,admin,login,failed
+2026-11-19T08:02:00Z,198.51.100.23,admin,login,failed
+2026-11-19T08:03:00Z,198.51.100.23,admin,login,failed
+2026-11-19T08:04:00Z,198.51.100.23,admin,login,failed
+2026-11-19T08:05:00Z,198.51.100.23,admin,login,failed
+2026-11-19T08:06:00Z,198.51.100.23,admin,login,success
+2026-11-19T08:07:00Z,203.0.113.45,student,login,success
+2026-11-19T08:08:00Z,203.0.113.45,student,login,failed
